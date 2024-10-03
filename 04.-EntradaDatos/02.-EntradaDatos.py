@@ -1,0 +1,6 @@
+nombre = input('Proporcione su nombre: ')
+edad = int(input('Tu edad: '))
+salario = float(input('Salario: '))
+print(nombre)
+print(edad)
+print(f'{salario:.2f}')
