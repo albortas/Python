@@ -5,6 +5,7 @@ for letra in 'Hola Mundo':
     print(letra, end=' ')
 
 #Usando la funcion de range podemos crear una secuencia de valores
+#range(inicio,fin,incremento)
 #numeros = range(1, 6, 1)
 numeros = range(1, 6)
 print()

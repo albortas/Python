@@ -1,5 +1,6 @@
 # 1. Parentesis y Corchetes
-# 2. Operadores unarios, como -, ++, --, !
+# 2. Exponente **
+# 2.1. Unario +x, -x
 # 3. Aritmeticos *, /, y %
 # 4. Aritmeticos + y -
 # 5. Relacionales <, <=, > y >=
